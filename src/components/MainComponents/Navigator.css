@@ -1,0 +1,10 @@
+.navbar-brand{
+    display: inline-block;
+    font-size: 1.4rem;
+}
+
+.nav-item{
+    margin-right: 20px;
+    font-size: 1.2rem;
+}
+

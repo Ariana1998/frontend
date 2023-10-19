@@ -1,0 +1,18 @@
+.title-login{
+    text-align: center;
+    margin-top: 2%;
+}
+.title-login h1{
+    display: inline;
+}
+.container-login{
+    margin: 3% auto;
+    background-color: rgba(189, 147, 228, 0.683);
+    padding: 20px;
+    border-radius: 30px;
+    width: 40%;
+}
+.log{
+    text-align: center;
+    margin: 30px;
+}
